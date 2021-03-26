@@ -4,7 +4,7 @@ A LoRa signal generator and detector for use in testing LoRa development.
 It transmits a snarky conversation for what it is supposed to bebetween two "seasoned" Amateur Radio enthusiasts. You can customize the messages.
 It also listens for any LoRa signal and acknowledges the "interruption" to the conversation providing a RSSI reading, and then carries on.
 
-Built specifically for the TTGO-T-BEAM
+Built specifically for the TTGO-T-BEAM (T22_V1.1_20191212) but should be easily portable.
 
 Using the Arduino IDE, to make it compile, install the esp32 boards in Arduino board manager from:
 -    https://github.com/espressif/arduino-esp32
