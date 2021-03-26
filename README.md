@@ -8,7 +8,9 @@ Built specifically for the TTGO-T-BEAM
 
 Using the Arduino IDE, to make it compile, install the esp32 boards in Arduino board manager from:
 -    https://github.com/espressif/arduino-esp32
+
 and the LoRa library from:
 -    https://github.com/sandeepmistry/arduino-LoRa
+
 Code is leveraged ttgo examples:
 -    https://github.com/LilyGO/TTGO-T-Beam
